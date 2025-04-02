@@ -1,0 +1,29 @@
+.layout-default {
+    &__header {
+        background: orange;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 40px 20px;
+        position: sticky;
+        top: 0;
+        z-index: 999;
+    }
+
+    &__logo {
+        a {
+            font-size: 24px;  
+            font-weight: bold;  
+            color: black; 
+            text-decoration: none;  
+        }
+    }
+    &__main {
+        padding: 20px;
+    }
+    &__footer {
+        background: orange;
+        text-align: center;
+        padding: 10px 20px;
+    }
+}

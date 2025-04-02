@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "studentCode": "SV001",
+      "fullName": "Nguyễn Văn A",
+      "age": 20,
+      "gender": "Nam",
+      "gpa": 3.5,
+      "hometown": "Hà Nội"
+    },
+    {
+      "id": "2",
+      "studentCode": "SV002",
+      "fullName": "Trần Thị B",
+      "age": 22,
+      "gender": "Nữ",
+      "gpa": 3.8,
+      "hometown": "Đà Nẵng"
+    },
+    {
+      "id": "3",
+      "studentCode": "SV003",
+      "fullName": "Lê Minh C",
+      "age": 21,
+      "gender": "Nam",
+      "gpa": 3.2,
+      "hometown": "TP. Hồ Chí Minh"
+    },
+    {
+      "id": "4",
+      "studentCode": "123",
+      "fullName": "le dinh thanh",
+      "age": "13",
+      "gender": "nam",
+      "gpa": "2",
+      "hometown": "thanhhoa"
+    }
+  ]
+}
